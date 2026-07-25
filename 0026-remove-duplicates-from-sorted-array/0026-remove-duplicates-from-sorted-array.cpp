@@ -1,18 +1,26 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
+
+        int i = 0;
+        int j = 1;
+
         vector<int> temp;
 
-        temp.push_back(nums[0]);
+        temp.push_back(nums[0]);   // Pehla element add karo
 
-        for (int i = 1; i < nums.size(); i++) {
-            if (nums[i] != nums[i - 1]) {
-                temp.push_back(nums[i]);
+        while (j < nums.size()) {
+
+            if (nums[i] < nums[j]) {
+                temp.push_back(nums[j]);
+                i = j;
             }
+
+            j++;
         }
 
-        for (int i = 0; i < temp.size(); i++) {
-            nums[i] = temp[i];
+        for (int k = 0; k < temp.size(); k++) {
+            nums[k] = temp[k];
         }
 
         return temp.size();

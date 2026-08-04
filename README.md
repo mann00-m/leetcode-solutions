@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0500-keyboard-row](https://github.com/mann00-m/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
+| [3330-find-the-original-typed-string-i](https://github.com/mann00-m/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mann00-m/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mann00-m/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mann00-m/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/mann00-m/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/mann00-m/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0875-koko-eating-bananas](https://github.com/mann00-m/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/mann00-m/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/mann00-m/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/mann00-m/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/mann00-m/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann00-m/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mann00-m/leetcode-solutions/tree/master/1512-number-of-good-pairs) |

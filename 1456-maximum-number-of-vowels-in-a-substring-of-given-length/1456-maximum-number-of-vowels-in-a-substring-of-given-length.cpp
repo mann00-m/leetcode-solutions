@@ -3,9 +3,9 @@ public:
     int maxVowels(string s, int k) {
 
         int count = 0;
-        int maxi = 2;
+        int maxi = 0;
 
-        // First window
+        
         for(int i = 0; i < k; i++) {
 
             if(s[i] == 'a' || s[i] == 'e' || 

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mann00-m/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mann00-m/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/mann00-m/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1929-concatenation-of-array](https://github.com/mann00-m/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/mann00-m/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/mann00-m/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

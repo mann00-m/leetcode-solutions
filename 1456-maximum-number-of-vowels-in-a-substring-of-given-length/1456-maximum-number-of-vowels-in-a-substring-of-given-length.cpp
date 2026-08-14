@@ -3,7 +3,7 @@ public:
     int maxVowels(string s, int k) {
 
         int count = 0;
-        int maxi = 1;
+        int maxi = 2;
 
         // First window
         for(int i = 0; i < k; i++) {

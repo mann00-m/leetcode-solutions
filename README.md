@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann00-m/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mann00-m/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/mann00-m/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/mann00-m/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann00-m/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann00-m/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/mann00-m/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |

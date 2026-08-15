@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/mann00-m/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/mann00-m/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mann00-m/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mann00-m/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/mann00-m/leetcode-solutions/tree/master/0338-counting-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mann00-m/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |

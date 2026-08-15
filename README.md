@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mann00-m/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/mann00-m/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/mann00-m/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/mann00-m/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/mann00-m/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/mann00-m/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
 |  |
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mann00-m/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mann00-m/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

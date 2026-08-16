@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/mann00-m/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/mann00-m/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/mann00-m/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mann00-m/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/mann00-m/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann00-m/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/mann00-m/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/mann00-m/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |

@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/mann00-m/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2404-most-frequent-even-element](https://github.com/mann00-m/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mann00-m/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mann00-m/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann00-m/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mann00-m/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/mann00-m/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/mann00-m/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Backtracking
 |  |
 | ------- |

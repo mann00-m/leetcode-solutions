@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mann00-m/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/mann00-m/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mann00-m/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/mann00-m/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mann00-m/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/mann00-m/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/mann00-m/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/mann00-m/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/mann00-m/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mann00-m/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann00-m/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mann00-m/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |

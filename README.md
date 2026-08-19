@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mann00-m/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mann00-m/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0894-all-possible-full-binary-trees](https://github.com/mann00-m/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/mann00-m/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mann00-m/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mann00-m/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/mann00-m/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/mann00-m/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/mann00-m/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/mann00-m/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/mann00-m/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/mann00-m/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0894-all-possible-full-binary-trees](https://github.com/mann00-m/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Heap (Priority Queue)
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/mann00-m/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->

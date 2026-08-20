@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mann00-m/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/mann00-m/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/mann00-m/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mann00-m/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2810-faulty-keyboard](https://github.com/mann00-m/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/mann00-m/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mann00-m/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/mann00-m/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Bracket Sequences
 |  |
 | ------- |

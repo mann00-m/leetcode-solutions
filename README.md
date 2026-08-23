@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/mann00-m/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/mann00-m/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1079-letter-tile-possibilities](https://github.com/mann00-m/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mann00-m/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2810-faulty-keyboard](https://github.com/mann00-m/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/mann00-m/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/mann00-m/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/mann00-m/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1079-letter-tile-possibilities](https://github.com/mann00-m/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mann00-m/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/mann00-m/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/mann00-m/leetcode-solutions/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1079-letter-tile-possibilities](https://github.com/mann00-m/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1079-letter-tile-possibilities](https://github.com/mann00-m/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1512-number-of-good-pairs](https://github.com/mann00-m/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/mann00-m/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2404-most-frequent-even-element](https://github.com/mann00-m/leetcode-solutions/tree/master/2404-most-frequent-even-element) |

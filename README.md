@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mann00-m/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/mann00-m/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0796-rotate-string](https://github.com/mann00-m/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/mann00-m/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/mann00-m/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/mann00-m/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mann00-m/leetcode-solutions/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mann00-m/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

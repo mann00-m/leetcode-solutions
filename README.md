@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mann00-m/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/mann00-m/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/mann00-m/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mann00-m/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mann00-m/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mann00-m/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/mann00-m/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/mann00-m/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/mann00-m/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/mann00-m/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/mann00-m/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2810-faulty-keyboard](https://github.com/mann00-m/leetcode-solutions/tree/master/2810-faulty-keyboard) |

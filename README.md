@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/mann00-m/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mann00-m/leetcode-solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/mann00-m/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/mann00-m/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/mann00-m/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mann00-m/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mann00-m/leetcode-solutions/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/mann00-m/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0894-all-possible-full-binary-trees](https://github.com/mann00-m/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mann00-m/leetcode-solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0179-largest-number) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
 | [2029-stone-game-ix](https://github.com/mann00-m/leetcode-solutions/tree/master/2029-stone-game-ix) |

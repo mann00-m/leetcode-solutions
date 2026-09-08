@@ -1,17 +1,14 @@
 class Solution {
 public:
     long long countCommas(int n) {
-        long long ans = 0;
+        long long count = 0;
 
-        for (int i = 1; i <= n; i++) {
-            int x = i;
-
-            while (x >= 1000) {
-                ans++;
-                x /= 1000;
+        for (int i = 999; i <= n; i++) {
+            if (i >= 1000) {
+                count++;
             }
         }
 
-        return ans;
+        return count;
     }
 };

@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/mann00-m/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/mann00-m/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mann00-m/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/mann00-m/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mann00-m/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/mann00-m/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mann00-m/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/mann00-m/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/mann00-m/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/mann00-m/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/mann00-m/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mann00-m/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mann00-m/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

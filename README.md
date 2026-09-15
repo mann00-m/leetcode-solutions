@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mann00-m/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1079-letter-tile-possibilities](https://github.com/mann00-m/leetcode-solutions/tree/master/1079-letter-tile-possibilities) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mann00-m/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann00-m/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2810-faulty-keyboard](https://github.com/mann00-m/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/mann00-m/leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mann00-m/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mann00-m/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/mann00-m/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann00-m/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/mann00-m/leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mann00-m/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann00-m/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/mann00-m/leetcode-solutions/tree/master/0179-largest-number) |
 | [0763-partition-labels](https://github.com/mann00-m/leetcode-solutions/tree/master/0763-partition-labels) |
 | [2029-stone-game-ix](https://github.com/mann00-m/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/mann00-m/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
